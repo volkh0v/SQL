@@ -1,5 +1,6 @@
 # SQL
 Purpose of this repository is to showcase my proficiency in SQL.
+This repository demonstrates SQL skills applied to pharmacy/pharmaceutical operations: sales analysis, inventory monitoring, and simple supply chain insights. It is tailored for roles in healthcare software and pharmacy management.
 
 Contents
 
