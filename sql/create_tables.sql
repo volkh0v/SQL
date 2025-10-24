@@ -1,5 +1,3 @@
--- 01_create_tables.sql
-
 CREATE TABLE stores (
   store_id      SERIAL PRIMARY KEY,
   store_name    TEXT NOT NULL,
